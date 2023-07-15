@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Weather App</string>
+    <string name="app_name_settings">Weather App Settings</string>
+    <string name="toggle_off">Farenheit</string>
+    <string name="toggle_on">Celcius</string>
+    <string name="option1">Option1</string>
+    <string name="option2">Option2</string>
+    <string name="sunny">Sunny</string>
+    <string name="cloudy">Cloudy</string>
+    <string name="rainy">Rainy</string>
+</resources>
